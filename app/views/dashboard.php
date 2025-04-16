@@ -21,7 +21,7 @@
                 <div class="flex justify-between items-center">
                     <div>
                         <p class="text-gray-500 text-sm font-medium">Total Penjualan</p>
-                        <h3 class="text-2xl md:text-3xl font-bold mt-1 text-gray-800">Rp <?= number_format($data['total_pendapatan']['total_pendapatan'],0,',','.') ?></h3>
+                        <h3 class="text-2xl md:text-3xl font-bold mt-1 text-gray-800">Rp <?= number_format($data['total_pendapatan'],0,',','.') ?></h3>
                     </div>
                     <div class="bg-red-100 p-3 rounded-full">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
