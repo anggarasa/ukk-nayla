@@ -8,4 +8,4 @@ define('BASE_URL', 'http://localhost:8000/ukk-nayla/public');
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'ukk_saskia');
+define('DB_NAME', 'ukk_nayla');
