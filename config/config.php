@@ -2,7 +2,7 @@
 
 
 // Ubah ini sesuai lokasi proyek kamu di localhost atau hosting
-define('BASE_URL', 'http://localhost:8000/ukk-nayla/public');
+define('BASE_URL', 'http://localhost/ukk-nayla/public');
 
 // Konfigurasi database
 define('DB_HOST', 'localhost');
