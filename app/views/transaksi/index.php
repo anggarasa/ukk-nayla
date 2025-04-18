@@ -379,7 +379,7 @@
             };
 
             // Send transaction to server
-            fetch('/ukk-nayla/public/transaksi/create', {
+            fetch('http://ukk-nayla.test/transaksi/create', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
